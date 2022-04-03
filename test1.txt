@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 929C-E8C4
+
+ Directory of C:\Users\ur32681\SeleniumTraining\git\MyProject
+
+04/03/2022  05:28 PM    <DIR>          .
+04/03/2022  05:28 PM    <DIR>          ..
+04/03/2022  05:28 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  66,042,630,144 bytes free
